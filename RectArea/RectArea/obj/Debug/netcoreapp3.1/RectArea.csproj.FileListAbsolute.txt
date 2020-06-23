@@ -1,0 +1,12 @@
+C:\launchcode\Chapter-2-Exercises\RectArea\RectArea\bin\Debug\netcoreapp3.1\RectArea.exe
+C:\launchcode\Chapter-2-Exercises\RectArea\RectArea\bin\Debug\netcoreapp3.1\RectArea.deps.json
+C:\launchcode\Chapter-2-Exercises\RectArea\RectArea\bin\Debug\netcoreapp3.1\RectArea.runtimeconfig.json
+C:\launchcode\Chapter-2-Exercises\RectArea\RectArea\bin\Debug\netcoreapp3.1\RectArea.runtimeconfig.dev.json
+C:\launchcode\Chapter-2-Exercises\RectArea\RectArea\bin\Debug\netcoreapp3.1\RectArea.dll
+C:\launchcode\Chapter-2-Exercises\RectArea\RectArea\bin\Debug\netcoreapp3.1\RectArea.pdb
+C:\launchcode\Chapter-2-Exercises\RectArea\RectArea\obj\Debug\netcoreapp3.1\RectArea.AssemblyInfoInputs.cache
+C:\launchcode\Chapter-2-Exercises\RectArea\RectArea\obj\Debug\netcoreapp3.1\RectArea.AssemblyInfo.cs
+C:\launchcode\Chapter-2-Exercises\RectArea\RectArea\obj\Debug\netcoreapp3.1\RectArea.csproj.CoreCompileInputs.cache
+C:\launchcode\Chapter-2-Exercises\RectArea\RectArea\obj\Debug\netcoreapp3.1\RectArea.dll
+C:\launchcode\Chapter-2-Exercises\RectArea\RectArea\obj\Debug\netcoreapp3.1\RectArea.pdb
+C:\launchcode\Chapter-2-Exercises\RectArea\RectArea\obj\Debug\netcoreapp3.1\RectArea.genruntimeconfig.cache

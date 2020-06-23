@@ -1,0 +1,13 @@
+C:\launchcode\Chapter-2-Exercises\MilesPerGallon\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.exe
+C:\launchcode\Chapter-2-Exercises\MilesPerGallon\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.deps.json
+C:\launchcode\Chapter-2-Exercises\MilesPerGallon\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.runtimeconfig.json
+C:\launchcode\Chapter-2-Exercises\MilesPerGallon\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.runtimeconfig.dev.json
+C:\launchcode\Chapter-2-Exercises\MilesPerGallon\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.dll
+C:\launchcode\Chapter-2-Exercises\MilesPerGallon\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.pdb
+C:\launchcode\Chapter-2-Exercises\MilesPerGallon\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.csprojAssemblyReference.cache
+C:\launchcode\Chapter-2-Exercises\MilesPerGallon\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.AssemblyInfoInputs.cache
+C:\launchcode\Chapter-2-Exercises\MilesPerGallon\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.AssemblyInfo.cs
+C:\launchcode\Chapter-2-Exercises\MilesPerGallon\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.csproj.CoreCompileInputs.cache
+C:\launchcode\Chapter-2-Exercises\MilesPerGallon\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.dll
+C:\launchcode\Chapter-2-Exercises\MilesPerGallon\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.pdb
+C:\launchcode\Chapter-2-Exercises\MilesPerGallon\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.genruntimeconfig.cache

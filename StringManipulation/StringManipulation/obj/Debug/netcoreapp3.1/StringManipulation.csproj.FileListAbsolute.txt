@@ -1,0 +1,12 @@
+C:\launchcode\Chapter-2-Exercises\StringManipulation\StringManipulation\bin\Debug\netcoreapp3.1\StringManipulation.exe
+C:\launchcode\Chapter-2-Exercises\StringManipulation\StringManipulation\bin\Debug\netcoreapp3.1\StringManipulation.deps.json
+C:\launchcode\Chapter-2-Exercises\StringManipulation\StringManipulation\bin\Debug\netcoreapp3.1\StringManipulation.runtimeconfig.json
+C:\launchcode\Chapter-2-Exercises\StringManipulation\StringManipulation\bin\Debug\netcoreapp3.1\StringManipulation.runtimeconfig.dev.json
+C:\launchcode\Chapter-2-Exercises\StringManipulation\StringManipulation\bin\Debug\netcoreapp3.1\StringManipulation.dll
+C:\launchcode\Chapter-2-Exercises\StringManipulation\StringManipulation\bin\Debug\netcoreapp3.1\StringManipulation.pdb
+C:\launchcode\Chapter-2-Exercises\StringManipulation\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulation.AssemblyInfoInputs.cache
+C:\launchcode\Chapter-2-Exercises\StringManipulation\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulation.AssemblyInfo.cs
+C:\launchcode\Chapter-2-Exercises\StringManipulation\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulation.csproj.CoreCompileInputs.cache
+C:\launchcode\Chapter-2-Exercises\StringManipulation\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulation.dll
+C:\launchcode\Chapter-2-Exercises\StringManipulation\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulation.pdb
+C:\launchcode\Chapter-2-Exercises\StringManipulation\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulation.genruntimeconfig.cache
